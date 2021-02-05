@@ -71,7 +71,7 @@ curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
 ```
 ![image](./img/ubutu-install-docker.png)
 
-- 安装`kubectl(在线下载方式)`
+##  安装`kubectl(在线下载方式)`
 [安装文档](https://www.kubernetes.org.cn/installkubectl)
 ```text
 下载执行文件
