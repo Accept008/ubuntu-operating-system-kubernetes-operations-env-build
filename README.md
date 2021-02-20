@@ -81,6 +81,10 @@ chmod +x /usr/local/bin/kubectl
 ```
 ![image](./img/install-kubectl.png)
 
+**有些kubectl版本不能执行端口映射port-forward**
+![image](./img/kubectl-multi-version.png)
+
+
 ## 安装`kustomize工具(离线方式)`
 [官方文档](https://github.com/kubernetes-sigs/kustomize/releases)
 ```text
